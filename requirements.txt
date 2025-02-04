@@ -1,4 +1,4 @@
-pyTelegramBotAPI==4.9.1
+pyTelegramBotAPI==4.9.0
 stripe==4.0.2
 flask==2.2.2
 python-dotenv
